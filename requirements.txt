@@ -1,0 +1,9 @@
+keyboard==0.13.5
+pywin32>=306
+pystray>=0.19
+Pillow>=10.0
+customtkinter>=5.2
+requests>=2.31
+windows-toasts>=1.2
+cryptography>=41.0
+pyinstaller>=6.0
